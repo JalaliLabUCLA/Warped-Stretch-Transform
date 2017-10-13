@@ -4,3 +4,4 @@ Time stretch dispersive Fourier transform enables real-time spectroscopy at the 
 Details of the algorithm can be found in this paper:
 
 [Mahjoubfar, Ata, Claire Lifan Chen, and Bahram Jalali. "Design of Warped Stretch Transform." Scientific reports 5 (2015).](http://www.nature.com/articles/srep17148.pdf)
+
