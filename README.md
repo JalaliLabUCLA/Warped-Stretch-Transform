@@ -1,7 +1,6 @@
-# warped-stretch
+# Warped Stretch Tranform
 Time stretch dispersive Fourier transform enables real-time spectroscopy at the repetition rate of million scans per second. High-speed real-time instruments ranging from analog-to-digital converters to cameras and single-shot rare-phenomena capture equipment with record performance have been empowered by it. Its warped stretch variant, realized with nonlinear group delay dispersion, offers variable rate spectral domain sampling, as well as the ability to engineer the time-bandwidth product of the signal's envelope to match that of the data acquisition systems. To be able to reconstruct the signal with low loss, the spectrotemporal distribution of the signal spectrum needs to be sparse. With this MATLAB code, you can design the kernel of the transform and specifically, the nonlinear group delay profile dictated by the signal sparsity. Such a kernel leads to smart stretching with nonuniform spectral resolution, having direct utility in improvement of data acquisition rate, real-time data compression, and enhancement of ultrafast data capture accuracy. Warped stretch transform can also be applied in spectrotemporal analysis of continuous-time signals. 
 
 Details of the algorithm can be found in this paper:
-
 [Mahjoubfar, Ata, Claire Lifan Chen, and Bahram Jalali. "Design of Warped Stretch Transform." Scientific reports 5 (2015).](http://www.nature.com/articles/srep17148.pdf)
 
